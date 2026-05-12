@@ -8,3 +8,4 @@ requests
 streamlit
 gunicorn
 flask 
+matalablib 
