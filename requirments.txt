@@ -9,3 +9,4 @@ streamlit
 gunicorn
 flask 
 matplotlib 
+seaborn 
