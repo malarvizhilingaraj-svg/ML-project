@@ -9,4 +9,8 @@ streamlit
 gunicorn
 flask 
 matplotlib 
+<<<<<<< HEAD
 pipeline 
+=======
+seaborn 
+>>>>>>> f0d6f70f7f7780c4f95fa91d1c73c2b845cf73d2
